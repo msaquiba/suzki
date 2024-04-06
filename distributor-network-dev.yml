@@ -7,4 +7,9 @@ spring:
   jpa:
     show-sql: true
     generate-ddl: true
+
+network:
+   businessType: retailer
+   location: national
+
   
