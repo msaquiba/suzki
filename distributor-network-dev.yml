@@ -10,6 +10,6 @@ spring:
 
 network:
    businessType: retailer
-   location: national
+   location: international
 
   
