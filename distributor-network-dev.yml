@@ -9,7 +9,8 @@ spring:
     generate-ddl: true
 
 network:
-   businessType: retailer
+   distributorType: retailer
    location: international
+
 
   
