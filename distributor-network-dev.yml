@@ -10,4 +10,9 @@ spring:
 network:
   distributorType: wholesale
   location: local
- 
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:9091/eureka
