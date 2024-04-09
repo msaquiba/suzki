@@ -12,7 +12,7 @@ network:
   locationType: local distributor-network-dev
 
 
- eureka:
+eureka:
   client:
     register-with-eureka: true
     fetch-registry: false
