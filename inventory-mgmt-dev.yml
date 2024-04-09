@@ -10,4 +10,4 @@ spring:
 
 network:
     businessType: wholesale
-    location: international location 11
+    locationType: international location 11
