@@ -9,10 +9,10 @@ spring:
     generate-ddl: false
 network:
   businessType: wholesale
-  locationType: local changed
+  locationType: local distributor-network-dev
 
 
-eureka:
+ eureka:
   client:
     register-with-eureka: true
     fetch-registry: false
