@@ -8,8 +8,8 @@ spring:
     show-sql: true
     generate-ddl: false
 network:
-  distributorType: wholesale
-  location: local
+  businessType: wholesale
+  locationType: local
 
 
 eureka:
