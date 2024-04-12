@@ -9,7 +9,7 @@ spring:
     generate-ddl: false
 network:
   businessType: wholesale
-  locationType: local distributor-network-dev1
+  locationType: local distributor-network-dev
 
  
 
