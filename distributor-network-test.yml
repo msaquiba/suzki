@@ -8,16 +8,11 @@ spring:
     show-sql: true
     generate-ddl: false
 network:
-  businessType: wholesale
-  locationType: local distributor-network-dev1
+  businessType: retailer
+  locationType: local
 eureka:
   client:
     register-with-eureka: true
     fetch-registry: false
     service-url:
       defaultZone: http://localhost:9091/eureka
-
- 
-
-
- 
