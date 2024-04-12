@@ -6,7 +6,7 @@ spring:
     password: system
   jpa:
     show-sql: true
-    generate-ddl: false
+    generate-ddl: true
 network:
   businessType: wholesale
   locationType: local
